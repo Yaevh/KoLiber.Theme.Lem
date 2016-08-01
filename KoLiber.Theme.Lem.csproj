@@ -104,6 +104,7 @@
     <Content Include="Views\Layout.cshtml" />
     <Content Include="Views\Elements\Grid.cshtml" />
     <Content Include="Views\Elements\Column.cshtml" />
+    <Content Include="Views\Parts\Layout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
