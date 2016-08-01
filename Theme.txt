@@ -1,7 +1,8 @@
 Name: KoLiber.Theme.Lem
 Author: Tomasz Malinowski, Damian Słoński
-Website: http://arkleseizure.net
+Website: https://github.com/Yaevh/KoLiber.Theme.Lem
 Description: A theme for LEM project (http://ekonomiadlamlodziezy.pl). Designed by Damian Słoński, impemented by Tomasz Malinowski.
-Version: 1.0
+Version: 0.1
+Dependencies: Orchard.Layouts
 # todo: provide tags
 # Tags: Classic, Serif
