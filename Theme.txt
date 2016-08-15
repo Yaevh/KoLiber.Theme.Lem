@@ -1,8 +1,9 @@
 Name: KoLiber.Theme.Lem
 Author: Tomasz Malinowski, Damian Słoński
 Website: https://github.com/Yaevh/KoLiber.Theme.Lem
-Description: A theme for LEM project (http://ekonomiadlamlodziezy.pl). Designed by Damian Słoński, impemented by Tomasz Malinowski.
+Description: A theme for LEM project (http://ekonomiadlamlodziezy.pl). Designed by Damian Słoński, implemented by Tomasz Malinowski.
 Version: 0.1
-Dependencies: Orchard.Layouts
+BaseTheme: Lombiq.PrettyGoodBootstrapBaseTheme
+Dependencies: Orchard.Layouts, Lombiq.PrettyGoodBootstrapBaseTheme
 # todo: provide tags
 # Tags: Classic, Serif
